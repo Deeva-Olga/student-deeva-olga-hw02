@@ -1,0 +1,12 @@
+default:
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: airflow
+      password: airflow
+      port: 5432
+      dbname: dwh
+      schema: dwh_homework
+      threads: 4
+  target: dev
