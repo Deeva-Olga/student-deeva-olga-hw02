@@ -1,0 +1,4 @@
+customer_id,name,region,status,updated_at
+1,Alice,North,Active,2023-10-01 10:00:00
+2,Bob,South,Active,2023-10-01 10:00:00
+3,Charlie,East,Active,2023-10-01 10:00:00
